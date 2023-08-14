@@ -11,6 +11,10 @@ Seamless user interface built using React, allowing intuitive interactions.
 
 Backend server developed using Node.js to handle user messages and API requests to OpenAI for generating responses.
 
+
+![Screenshot 2023-08-14 142014](https://github.com/Hasnain7861/Chat-GPT-Clone/assets/104284237/a60c3eca-9dc0-46ac-a094-ab38399ac330)
+
+
 How to Use
 
 Clone the repository to your local machine.
