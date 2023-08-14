@@ -23,7 +23,9 @@ Start the frontend and backend servers using the command:
 
 npm start
 Access the application through your web browser.
+
 Technologies Used
+
 React.js: Used to create an intuitive user interface for engaging with the chatbot.
 
 Node.js: Built a backend server to handle user messages and interact with the OpenAI API.
@@ -32,13 +34,15 @@ OpenAI API: Integrated the OpenAI API to generate intelligent responses for user
 
 Project Structure
 src/App.js: Main component containing the frontend interface and logic for user interactions.
+
 server.js: Backend server logic for handling user messages and API requests.
+
 Acknowledgements
+
 This project was developed by Hasnain Mucklai as part of a personal project to explore AI-powered chatbot interactions and enhance programming skills.
 
 Contact Information
-Developer: Hasnain Mucklai
-GitHub: Hasnain7861
-LinkedIn: Hasnain Mucklai
+
 Email: mucklaihasnain@gmail.com
+
 Feel free to reach out for any inquiries or suggestions!
